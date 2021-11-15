@@ -21,6 +21,7 @@ ul{
 .pork-body{
     background-color: rgb(214, 100, 119);
 }
+
 body{
     background-color: #ADC2A9;
     }
@@ -55,10 +56,13 @@ h4{
     display:block;
     margin-left: auto;
     margin-right: auto;
+    display: block;
 }
 
 .ingredients{
     font-size: 22px;
+    display:block;
+    text-align: center;
 }
 
 .steps{
@@ -74,4 +78,12 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.apple-body{
+    background-color: rgb(126, 228, 126);   
+}
+
+.lasagna-body{
+    background-color: rgb(189, 238, 117);
 }
