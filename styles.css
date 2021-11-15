@@ -1,0 +1,77 @@
+.main-title{
+    text-align: center;
+    font-size: 55px;    
+}
+
+#cutie{
+    display:block;
+    margin: 0 auto;
+}
+
+.recipe-list{
+    text-align: center;
+    font-size: 36px;
+}
+
+ul{
+    display: inline-block;
+    text-align: left;
+}
+
+.pork-body{
+    background-color: rgb(214, 100, 119);
+}
+body{
+    background-color: #ADC2A9;
+    }
+
+h1, h3, h4{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 36px;
+}
+
+h4{
+    font-size: 36px;
+}
+
+.d-p{
+    text-align: center;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+.pork, .lasagna, .apple{
+    max-width: 20%;
+    max-height: auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingredients{
+    font-size: 22px;
+}
+
+.steps{
+    font-size: 32px;
+}
+
+.backtohome{
+    text-align: center;
+    display: block;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
